@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ハローマリーナ",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-02-25T10:17:56.321269Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハローマリーナ",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/01_ハローマリーナ_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハローマリーナ",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/02_ハローマリーナ_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハローマリーナ (Hello Marina)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/03_ハローマリーナ_(Hello_Marina)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハローマリーナ",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/04_ハローマリーナ_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハローマリーナ",
+      "artist": "稲葉曇 Vo. 歌愛ユキ",
+      "has_synced": true,
+      "path": "select/05_ハローマリーナ_稲葉曇_Vo._歌愛ユキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハローマリーナ",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_ハローマリーナ_稲葉曇.txt"
+    }
+  ]
+}
